@@ -6,8 +6,6 @@
 // N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 
 Console.Clear();
-
-
 Console.WriteLine("Введите положительное число N: ");
 int N = int.Parse(Console.ReadLine()!);
 int M = 1;
